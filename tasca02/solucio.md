@@ -37,7 +37,6 @@ S’han posat en contacte amb l’empresa on esteu fent l’estada i el vostre r
 
    * Estimació del temps mínim que el SAI ha de mantenir els equips en funcionament (ex. 10 minuts per guardar treballs i apagar correctament).
 
-     
 
 4. **Recerca de models de SAI**
 
@@ -49,7 +48,7 @@ S’han posat en contacte amb l’empresa on esteu fent l’estada i el vostre r
 
    * Comparació de característiques: potència, autonomia, tipus de sortides, preu, marca.
 
-		
+	 <img src="https://github.com/ArnauDominguez/Projecte2/blob/main/tasca02/img/capturaT02.png?raw=true "/>	
 
 5. **Informe tècnic**
 

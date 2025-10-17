@@ -36,9 +36,6 @@ Per seguretat, **el disc de l’equip s’ha clonat** en un **disc virtual**, de
 4. Prem `Ctrl + X` per iniciar el sistema amb aquests paràmetres.  
 5. El sistema arrencarà directament en una **sessió de shell com a root**.
 
-### 3.2 Identificar l’usuari del sistema
+A l'arxiu [solucio.md](solucio.md) hi ha solució descrita.
 
-Un cop dins la shell, escriu:
-```bash
-ls /home
-
+[Tornar pàgina projecte](../README.md)

@@ -59,6 +59,4 @@ Redacció d’un informe amb:
 * Models analitzats  
 * Justificació de la selecció final
 
-[T02_ Selecció d’un SAI per una empresa client.md](https://github.com/user-attachments/files/22974319/T02_.Seleccio.d.un.SAI.per.una.empresa.client.md)
-
 [Tornar a enunciat](README.md)

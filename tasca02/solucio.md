@@ -49,7 +49,7 @@ S’han posat en contacte amb l’empresa on esteu fent l’estada i el vostre r
 
    * Comparació de característiques: potència, autonomia, tipus de sortides, preu, marca.
 
-		![][image1]
+		
 
 5. **Informe tècnic**
 

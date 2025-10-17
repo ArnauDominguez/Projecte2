@@ -61,6 +61,8 @@ Aquesta tasca té com a objectiu que **aprengueu a treballar amb Markdown**, ja 
   > Connexió amb P01/P02 del projecte.
 
 ---
+A l'arxiu [solucio.md](solucio.md) hi ha solució descrita.
 
+[Tornar pàgina projecte](../README.md)
 
 

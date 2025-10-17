@@ -1,4 +1,4 @@
-# T10: Estudi i selecció d’un SAI per a l’empresa TecnoGestió S.L.
+# T02: Selecció d’un SAI per una empresa client
 
 ## 1. Context
 

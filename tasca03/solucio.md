@@ -1,6 +1,3 @@
-
-[T03 Seguretat Lògica.md](https://github.com/user-attachments/files/22974783/T03.Seguretat.Logica.md)
-
 Anem a advanced options  
 <img src="https://github.com/ArnauDominguez/Projecte2/blob/main/tasca03/img/Captura%20de%20pantalla%202025-10-14%20191009.png?raw=true" />
 

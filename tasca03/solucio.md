@@ -46,6 +46,7 @@ I al tornar a entrar ja ens demana l’usuari i la contrasenya.
 <img src="https://github.com/ArnauDominguez/Projecte2/blob/main/tasca03/img/Captura%20de%20pantalla%202025-10-16%20191125.png?raw=true" />
 
 Enllaç al drive: [https://docs.google.com/document/d/1EHCC\_NF0K4GTewQL6DU5kYEGA6kDXFFmT2XQYOJq6O4/edit?usp=sharing](https://docs.google.com/document/d/1EHCC_NF0K4GTewQL6DU5kYEGA6kDXFFmT2XQYOJq6O4/edit?usp=sharing)
+
 [Tornar a enunciat](README.md)
 
 

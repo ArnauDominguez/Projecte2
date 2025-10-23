@@ -4,4 +4,4 @@ Benvinguts a EverPia, una consultora IT que té com a missió resoldre els repte
 - [Tasca03](tasca03/README.md)
 - [Tasca08](tasca08/README.md)
 
-[Tornar a la presentació personal](https://github.com/ArnauDominguez/ArnauDominguez)
+[Tornar a la presentació personal](https://github.com/ArnauDominguez)
